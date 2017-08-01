@@ -1,0 +1,16 @@
+{
+  "name": "get-request",
+  "version": "1.0.0",
+  "description": "get-request to a free API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "launch": "node --no-warnings script.js"
+  },
+  "author": "Darya_Vanchuk",
+  "license": "ISC",
+  "dependencies": {
+    "json-colorz": "^0.2.7",
+    "progress": "^2.0.0"
+  }
+}

@@ -1,0 +1,44 @@
+[
+	{
+		"results": [
+			{
+				"gender": "male",
+				"name": {
+					"title": "mr",
+					"first": "eli",
+					"last": "smith"
+				},
+				"email": "eli.smith@example.com",
+				"phone": "(821)-418-8334"
+			}
+		]
+	},
+	{
+		"results": [
+			{
+				"gender": "male",
+				"name": {
+					"title": "mr",
+					"first": "noam",
+					"last": "nicolas"
+				},
+				"email": "noam.nicolas@example.com",
+				"phone": "04-41-63-04-94"
+			}
+		]
+	},
+	{
+		"results": [
+			{
+				"gender": "male",
+				"name": {
+					"title": "mr",
+					"first": "walter",
+					"last": "larson"
+				},
+				"email": "walter.larson@example.com",
+				"phone": "(421)-896-3676"
+			}
+		]
+	}
+]
